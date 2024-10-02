@@ -1,1 +1,1 @@
-# giphy-proyect
+# Proyecto Giphy - React/Redux Toolkit
